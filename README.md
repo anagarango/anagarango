@@ -19,8 +19,8 @@ I'm ***Ana Arango***, a 19 year old British Columbia Intitute of Technology Stud
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=anagarango&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=anagarango&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=anagarango&theme=shades-of-purple&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anagarango&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=anagarango&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
