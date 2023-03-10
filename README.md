@@ -1,6 +1,7 @@
 # 💫 About Me:
 I'm ***Ana Arango***, a 19 year old British Columbia Intitute of Technology Student in the Digital Design and Development program. Started my front-end career in mid-2021, I enjoy creating projects from scratch and learning new technologies to expand my tech stack and efficiency.
 </br>
+</br>
 🔭 I’m currently working with Techies of Tomorrow, BC
 <br>
 🌱 I’m currently learning Prisma
