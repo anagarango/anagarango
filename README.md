@@ -1,8 +1,11 @@
-### Hi there 👋
-
-
 # 💫 About Me:
-🔭 I’m currently working with Techies of Tomorrow, BC<br>🌱 I’m currently learning Prisma<br>⚡ Fun fact: I recently (March 2023) learned how to solve a Rubik's Cube 🧊
+I'm ***Ana Arango***, a 19 year old British Columbia Intitute of Technology Student in the Digital Design and Development program. Started my front-end career in mid-2021, I enjoy creating projects from scratch and learning new technologies to expand my tech stack and efficiency.
+</br>
+🔭 I’m currently working with Techies of Tomorrow, BC
+<br>
+🌱 I’m currently learning Prisma
+<br>
+⚡ Fun fact: I recently (March 2023) learned how to solve a Rubik's Cube 🧊
 
 
 ## 🌐 Socials:
@@ -18,8 +21,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=anagarango&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=anagarango&theme=shades-of-purple&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anagarango&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=anagarango&icon=5&color=6)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
