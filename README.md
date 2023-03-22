@@ -1,5 +1,6 @@
-## Hi, I'm ***Ana Arango***
-I'm a 19 year old British Columbia Intitute of Technology Student in the Digital Design and Development program. Started my front-end career in mid-2021, I enjoy creating projects from scratch and learning new technologies to expand my tech stack and efficiency.
+<img src='https://user-images.githubusercontent.com/91710569/226823489-aa70ef9e-c511-4e1f-b343-ee8957893e7e.gif' height='75"'>
+
+Hello world! I'm a 19 year old British Columbia Intitute of Technology Student in the Digital Design and Development program. Started my front-end career in mid-2021, I enjoy creating projects from scratch and learning new technologies to expand my tech stack and efficiency.
 </br>
 </br>
 🔭 I’m currently working on [DrinkUp🍹](https://drinkup.vercel.app/) and on my [Portfolio](https://anagarango.starbooks.ca/)
