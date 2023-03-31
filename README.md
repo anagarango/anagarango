@@ -3,8 +3,9 @@
 Hello world! I'm a 19 year old British Columbia Intitute of Technology Student in the Digital Design and Development program. Started my front-end career in mid-2021, I enjoy creating projects from scratch and learning new technologies to expand my tech stack and efficiency.
 </br>
 </br>
-🔭 I’m currently working on [DrinkUp🍹](https://drinkup.vercel.app/) and on my [Portfolio](https://anagarango.starbooks.ca/)
+🔭 I’m currently working on [CodeTipsTricks](https://code-tips-tricks.vercel.app/) and on my [Portfolio](https://anagarango.starbooks.ca/)
 <br>
+👀 Recently finished [DrinkUp🍹](https://drinkup.vercel.app/)
 🌱 I’m currently learning Prisma
 <br>
 ⚡ Fun fact: I recently (March 2023) learned how to solve a Rubik's Cube 🧊
