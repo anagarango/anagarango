@@ -6,6 +6,7 @@ Hello world! I'm a 19 year old British Columbia Intitute of Technology Student i
 🔭 I’m currently working on [CodeTipsTricks](https://code-tips-tricks.vercel.app/) and on my [Portfolio](https://anagarango.starbooks.ca/)
 <br>
 👀 Recently finished [DrinkUp🍹](https://drinkup.vercel.app/)
+<br>
 🌱 I’m currently learning Prisma
 <br>
 ⚡ Fun fact: I recently (March 2023) learned how to solve a Rubik's Cube 🧊
