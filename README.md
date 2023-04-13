@@ -1,8 +1,8 @@
 <img src='https://user-images.githubusercontent.com/91710569/226823489-aa70ef9e-c511-4e1f-b343-ee8957893e7e.gif' height='95'>
 
-Hello world! I'm a 19 year old British Columbia Intitute of Technology Student in the Digital Design and Development program. Started my front-end career in mid-2021, I enjoy creating projects from scratch and learning new technologies to expand my tech stack and efficiency.
+Hello world! I'm a 19 year old British Columbia Intitute of Technology Student in the Digital Design and Development program. Started my front-end career in mid-2021, I enjoy creating projects from scratch and learning new technologies to expand my tech stack and efficiency. I'm working towards expanding my back-end knowledge to eventually become a full-stack developer.
 </br>
-</br>
+
 🔭 I’m currently working on [Chatsation](https://github.com/anagarango/Chatsation) and on my [Portfolio](https://anagarango.starbooks.ca/)
 <br>
 👀 Recently finished [CodeTipsTricks](https://code-tips-tricks.vercel.app/) and [DrinkUp🍹](https://drinkup.vercel.app/)
@@ -11,7 +11,7 @@ Hello world! I'm a 19 year old British Columbia Intitute of Technology Student i
 <br>
 ⚡ Fun fact: I recently (March 2023) learned how to solve a Rubik's Cube 🧊
 
-
+</br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ana-arango-08592122a) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/snoopygoldberg94) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20517462) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@anaarango2757) 
@@ -23,12 +23,12 @@ Hello world! I'm a 19 year old British Columbia Intitute of Technology Student i
 
 <br />
 
-## 🦄 Technologies Learned
+## 🦄 Technologies Learned:
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Jasmine](https://img.shields.io/badge/jasmine-%238A4182.svg?style=for-the-badge&logo=jasmine&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) 
 
 <br />
 
-## 🤹‍♀️ Learning
+## 🤹‍♀️ Learning:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
 <br />
