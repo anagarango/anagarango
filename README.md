@@ -1,4 +1,4 @@
-<img src='https://user-images.githubusercontent.com/91710569/226823489-aa70ef9e-c511-4e1f-b343-ee8957893e7e.gif' height='95'>
+<img src='https://user-images.githubusercontent.com/91710569/226823489-aa70ef9e-c511-4e1f-b343-ee8957893e7e.gif' height='100' width='650'>
 
 Hello world! I'm a 19 year old British Columbia Intitute of Technology Student in the Digital Design and Development program. Started my front-end career in mid-2021, I enjoy creating projects from scratch and learning new technologies to expand my tech stack and efficiency. I'm working towards expanding my back-end knowledge to eventually become a full-stack developer.
 </br>
