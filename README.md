@@ -7,7 +7,7 @@ Hello world! I'm a 19 year old British Columbia Intitute of Technology Student i
 <br>
 👀 Recently finished [CodeTipsTricks](https://code-tips-tricks.vercel.app/) and [DrinkUp🍹](https://drinkup.vercel.app/)
 <br>
-🌱 I’m currently learning Typescript
+🌱 I’m currently learning Python 🐍
 <br>
 ⚡ Fun fact: I recently (March 2023) learned how to solve a Rubik's Cube 🧊
 
