@@ -1,9 +1,9 @@
 <img src='https://user-images.githubusercontent.com/91710569/226823489-aa70ef9e-c511-4e1f-b343-ee8957893e7e.gif' height='100' width='650'>
 
-Hello world! I'm a 19 year old British Columbia Intitute of Technology Student in the Digital Design and Development program. Started my front-end career in mid-2021, I enjoy creating projects from scratch and learning new technologies to expand my tech stack and efficiency. I'm working towards expanding my back-end knowledge to eventually become a full-stack developer.
+Hello world! I'm a British Columbia Intitute of Technology Graduate from the Digital Design and Development program. Started my front-end career in mid-2021, I enjoy creating projects from scratch and learning new technologies to expand my tech stack and efficiency. I'm working towards expanding my back-end knowledge to eventually become a full-stack developer.
 </br>
 
-🔭 I’m currently working on [Chatsation](https://github.com/anagarango/Chatsation) and on my [Portfolio](https://anagarango.starbooks.ca/)
+🔭 I’m currently working on and on my [Portfolio](https://anagarango.starbooks.ca/) and [ColombiaTravel](https://github.com/anagarango/ColombiaTravel)
 <br>
 👀 Recently finished [CodeTipsTricks](https://code-tips-tricks.vercel.app/) and [DrinkUp🍹](https://drinkup.vercel.app/)
 <br>
