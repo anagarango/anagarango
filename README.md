@@ -41,6 +41,6 @@ Hello world! I'm Ana, a British Columbia Intitute of Technology Graduate from th
 ## 📊 GitHub Stats:
 <!-- ![anagarango's Stats](https://github-readme-stats.vercel.app/api?username=anagarango&theme=shades-of-purple&show_icons=true&hide_border=true&count_private=true) -->
 ![](https://github-readme-stats.vercel.app/api?username=anagarango&theme=shades-of-purple&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anagarango&theme=shades-of-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![anagarango's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anagarango&theme=shades-of-purple&show_icons=true&hide_border=true&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
