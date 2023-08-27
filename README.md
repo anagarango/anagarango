@@ -3,8 +3,7 @@
 Hello world! I'm Ana, a British Columbia Intitute of Technology Graduate from the Digital Design and Development program. Started my front-end career in mid-2021, I enjoy creating projects from scratch and learning new technologies to expand my tech stack and efficiency. I'm working towards expanding my back-end knowledge to eventually become a full-stack developer.
 </br>
 
-🔭 I’m currently working on and on my [Portfolio](https://anagarango.starbooks.ca/) and [ColombiaTravel](https://github.com/anagarango/ColombiaTravel)
-<br>
+
 👀 Recently finished [CodeTipsTricks](https://code-tips-tricks.vercel.app/) and [DrinkUp🍹](https://drinkup.vercel.app/)
 <br>
 🌱 I’m currently learning Python 🐍
@@ -14,7 +13,8 @@ Hello world! I'm Ana, a British Columbia Intitute of Technology Graduate from th
 </br>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ana-arango-08592122a) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/snoopygoldberg94) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20517462) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@anaarango2757) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ana-arango-08592122a)
+[![Portfolio](https://img.shields.io/badge/portfolio-0a002c.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyBpZD0iTGF5ZXJfMSIgZGF0YS1uYW1lPSJMYXllciAxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMTkzLjE1IDEwNzIuMDciPgogIDxkZWZzPgogICAgPHN0eWxlPgogICAgICAuY2xzLTEgewogICAgICAgIGZpbGw6ICNhMzk5ZTI7CiAgICAgICAgc3Ryb2tlLXdpZHRoOiAwcHg7CiAgICAgIH0KICAgIDwvc3R5bGU+CiAgPC9kZWZzPgogIDxwYXRoIGNsYXNzPSJjbHMtMSIgZD0ibTEwNTAuNDEsMjcyLjY5bC0xMDEuMDcsMjYzLjM2aC0yNzQuMDhMNDc1LjU1LDBoLTE0OC4wNUwwLDc5OS4zOWgxNDIuNzVsODkuMzItMjE3Ljc5aDMwMC4xbDE4NS40Myw0OTAuNDhoMTQ4LjA1bDMyNy41LTc5OS4zOWgtMTQyLjc1Wk0yNDQuNTcsNTM2LjA1bDE0NC41Mi0zNDQuNzdjMTAuMDYsMjYuOTIsMTI5LjU2LDM0NC43NywxMjkuNTYsMzQ0Ljc3SDI0NC41N1ptNTU5LjQ5LDM0NC43NGMtMTAuMDYtMjYuOTItMTEwLjA4LTMwMy4wMy0xMTAuMDgtMzAzLjAzaDIzMi40NGwtMTIyLjM2LDMwMy4wM1oiLz4KPC9zdmc+)](https://anagarango.starbooks.ca/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://pinterest.com/snoopygoldberg94) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20517462) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@anaarango2757) [![NPM](https://img.shields.io/badge/npm-%23E60023.svg?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~anagarango)
 
 <br />
 
