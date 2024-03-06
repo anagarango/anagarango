@@ -1,12 +1,12 @@
 <img src='https://user-images.githubusercontent.com/91710569/226823489-aa70ef9e-c511-4e1f-b343-ee8957893e7e.gif' height='100' width='650'>
 
-Hello world! I'm Ana, a British Columbia Intitute of Technology Graduate from the Digital Design and Development program. Started my front-end career in mid-2021, I enjoy creating projects from scratch and learning new technologies to expand my tech stack and efficiency. I'm working towards expanding my back-end + AI knowledge as it can help me find new passion projects and improve my hard skills.
+Hello world! I'm Ana, a British Columbia Institute of Technology Graduate from the Digital Design and Development program. Started my front-end career in mid-2021, I enjoy creating projects from scratch and learning new technologies to expand my tech stack and efficiency. I'm working towards expanding my back-end + AI knowledge as it can help me find new passion projects and improve my hard skills.
 </br>
 
 
-👀 Recently finished [CodeTipsTricks](https://code-tips-tricks.vercel.app/) and [DrinkUp🍹](https://drinkup.vercel.app/)
+👀 Recently finished [FictiChat](https://github.com/anagarango/FictiChat)
 <br>
-🌱 I’m currently learning in implementing AI to a web app project
+🌱 I’m currently learning algorithms
 <br>
 ⚡ Fun fact: I recently (March 2023) learned how to solve a Rubik's Cube 🧊
 
