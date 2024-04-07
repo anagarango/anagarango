@@ -4,7 +4,7 @@ Hello world! I'm Ana, a British Columbia Institute of Technology Graduate from t
 </br>
 
 
-👀 Recently finished [FictiChat](https://github.com/anagarango/FictiChat)
+👀 Recently finished [FictiChat](https://fictichat.vercel.app) and [ChefWilly](https://chefwilly.starbooks.ca)
 <br>
 🌱 I’m currently learning algorithms
 <br>
